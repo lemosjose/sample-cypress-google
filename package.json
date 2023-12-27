@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.1",
+    "cypress-real-events": "^1.11.0",
+    "mocha": "^10.2.0"
+  },
+  "name": "E2E-Google",
+  "version": "1.0.0",
+  "description": "Simple Testing example using the most used search engine.",
+  "main": "index.js",
+  "author": "Jose Lemos",
+  "license": "MIT"
+}
